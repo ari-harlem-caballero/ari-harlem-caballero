@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey y'all! I'm Ari! 👋
+
+I'm a Full-Stack Software Developer with experience with Javascript, React, HTML, CSS, Node, Express, and PostgreSQL. I have a background in education/childcare, art and cultural studies.
 
 <!--
 **ari-harlem-caballero/ari-harlem-caballero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
